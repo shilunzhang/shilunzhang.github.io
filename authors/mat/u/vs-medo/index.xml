@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | SHILUN ZHANG (张诗伦)</title>
-    <link>https://shilunzhang.github.io/publication/</link>
-      <atom:link href="https://shilunzhang.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Mat{\&#39;u}{\v{s}} Medo | SHILUN ZHANG (张诗伦)</title>
+    <link>https://shilunzhang.github.io/authors/mat/u/vs-medo/</link>
+      <atom:link href="https://shilunzhang.github.io/authors/mat/u/vs-medo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mat{\&#39;u}{\v{s}} Medo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shilunzhang.github.io/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>https://shilunzhang.github.io/publication/</link>
+      <title>Mat{\&#39;u}{\v{s}} Medo</title>
+      <link>https://shilunzhang.github.io/authors/mat/u/vs-medo/</link>
     </image>
     
     <item>
